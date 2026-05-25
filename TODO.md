@@ -8,6 +8,8 @@
 - [x] Push initial commit to `main`.
 - [x] Add project memory files for future chats.
 - [x] Add initial Fasthosts deployment notes and script template.
+- [x] Confirm Fasthosts access method: SSH/SFTP.
+- [x] Fill in private Fasthosts deployment settings locally.
 
 ## Next
 
@@ -15,8 +17,6 @@
 - [ ] Scaffold the website project.
 - [ ] Add the first real homepage.
 - [ ] Set up local preview commands.
-- [ ] Confirm Fasthosts access method: SSH/SFTP, FTPS, or FTP.
-- [ ] Fill in private Fasthosts deployment settings locally.
 - [ ] Test a first deploy to Fasthosts.
 
 ## Open Decisions
@@ -24,4 +24,3 @@
 - Website style and purpose.
 - Pages needed at launch.
 - Whether to use a simple static site, Astro, Next.js, Vite, or another setup.
-- Exact Fasthosts remote web root folder.
