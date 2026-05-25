@@ -6,3 +6,4 @@ Personal website repository.
 
 - `AGENTS.md` keeps context for future Codex sessions.
 - `TODO.md` tracks what has been done and what should happen next.
+- `DEPLOYMENT.md` tracks how the site will be pushed to hosting.
