@@ -1,21 +1,25 @@
 # Project Notes for Codex
 
-This repository is Paul Allen's personal website project.
+This folder is not the active website project.
+
+The active project is The Honest Potter website at `/Users/paulallen/Pottery/website_2.0`.
 
 ## Current Setup
 
-- Local project folder: `/Users/paulallen/Documents/website`
+- This folder: `/Users/paulallen/Documents/website`
 - GitHub repository: `git@github.com:ccd1pga/website.git`
 - Public URL for repository: `https://github.com/ccd1pga/website`
 - Default branch: `main`
+- Real local website folder: `/Users/paulallen/Pottery/website_2.0`
+- Real local working plan: `/Users/paulallen/Pottery/website_2.0/codex-site/working-plan.md`
 
 ## Collaboration Preferences
 
-- Keep the project easy to resume between chats.
-- Update `TODO.md` whenever priorities change or a task is completed.
-- Before making broad changes, check `TODO.md` and the current Git status.
-- Commit useful checkpoints once a coherent piece of setup or website work is done.
+- Do not start new site work in this folder.
+- Work in `/Users/paulallen/Pottery/website_2.0`.
+- Check `/Users/paulallen/Pottery/website_2.0/codex-site/working-plan.md` before broad changes.
+- Keep shop work separate from publish-ready gallery work until explicitly approved.
 
 ## Current State
 
-The repository has been created and connected to GitHub. The next work is to choose and scaffold the actual website stack, then start building the site content and design.
+This GitHub-connected folder should be replaced, retired, or ignored after deciding where the real Honest Potter site should live on GitHub.
