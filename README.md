@@ -1,6 +1,6 @@
-# website
+# Retired Website Setup Repo
 
-This repository was originally created during setup, but it is not the active source folder for The Honest Potter website.
+This repository was created during setup, but it is now retired. It is not the active source folder for The Honest Potter website.
 
 The active local website project is:
 
@@ -18,10 +18,11 @@ The current plan for that project lives at:
 
 - Do not scaffold new website work in this folder.
 - Do not treat this folder as the source of truth for The Honest Potter site.
-- Decide later whether to replace this GitHub repository with the real site, retire it, or create a new GitHub repository.
+- Keep this repository only as a pointer/history note unless it is deliberately replaced by the real site.
+- The real site should live in its own repository, or this repository should be archived/replaced deliberately.
 
 ## Project Notes
 
 - `AGENTS.md` keeps context for future Codex sessions.
 - `TODO.md` tracks what has been done and what should happen next.
-- `DEPLOYMENT.md` tracks how the site will be pushed to hosting.
+- `DEPLOYMENT.md` contains old deployment notes from setup; the active site state is tracked in the real project.
