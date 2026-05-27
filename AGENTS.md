@@ -1,6 +1,6 @@
 # Project Notes for Codex
 
-This folder is not the active website project.
+This folder is retired and is not the active website project.
 
 The active project is The Honest Potter website at `/Users/paulallen/Pottery/website_2.0`.
 
@@ -22,4 +22,4 @@ The active project is The Honest Potter website at `/Users/paulallen/Pottery/web
 
 ## Current State
 
-This GitHub-connected folder should be replaced, retired, or ignored after deciding where the real Honest Potter site should live on GitHub.
+This GitHub-connected folder should be treated as retired or as a pointer only. Active Honest Potter site work belongs in `/Users/paulallen/Pottery/website_2.0`.
