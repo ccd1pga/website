@@ -12,13 +12,13 @@
 - [x] Fill in private Fasthosts deployment settings locally.
 - [x] Identify that the real website source is `/Users/paulallen/Pottery/website_2.0`.
 - [x] Preserve mistaken Astro scaffold commits on local branch `mistaken-astro-scaffold`.
+- [x] Retire this setup repository as an active website project.
 
 ## Next
 
-- [ ] Decide whether to replace this GitHub repository with the real Honest Potter site, retire it, or create a new GitHub repository.
 - [ ] Keep all active site work in `/Users/paulallen/Pottery/website_2.0`.
+- [ ] Archive this GitHub repository or replace it deliberately once the real site repository is chosen.
 
 ## Open Decisions
 
 - Which GitHub repository should hold the real Honest Potter site.
-- Whether the old `ccd1pga/website` repository should be overwritten, archived, or kept as a setup note.
